@@ -80,7 +80,7 @@ body{
 }
 
 .container-III{
-    background-color: rgba(0, 255, 255, 0.157);
+    background-color: rgba(0, 255, 255, 0.101);
     margin-top: 3%;
     display: flex;
 }
@@ -96,7 +96,7 @@ body{
 
 .bk-image-repeat p {
     font-size: 20px;
-    margin-left: 18%;
+    margin-left: 190px;
 }
 
 .bk-image-repeat .img-repeat{
@@ -108,4 +108,12 @@ body{
     height: 300px;
     border-radius: 15px;
 
+}
+
+.bk-image-repeat .ejemplo-repeat{
+    margin: 15px;
+}
+
+.bk-image-repeat .ejemplo-repeat p{
+    padding-left: 20px;
 }
